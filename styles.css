@@ -450,9 +450,26 @@ body {
     bottom: 290px;
 }
 
-.FAQ {
-    display: flex;
-    justify-content: space-around;
+.p1 {
+    position: relative;
+    left: 1200px;
+    bottom: 80px;
+}
+.p2 {
+    position: relative;
+    left: 1200px;
+    top: 20px;
+}
+
+.p3 {
+    position: relative;
+    left: 250px;
+    bottom: 550px;
+}
+.p4 {
+    position: relative;
+    left: 250px;
+    bottom:450px;
 }
 
 .footer {
